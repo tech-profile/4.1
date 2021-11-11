@@ -1,0 +1,27 @@
+REFLEXIÓN INDIVIDUAL
+
+Nombre: Juan Camilo Bedoya Barbosa
+Matricula: A00832898
+
+1.	La participación por parte mía para la realización de esta tarea fue totalitaria.
+Fui el encargado crear las clases y sus respectivos atributos y métodos, así como 
+quien realizo toda la lógica del programa principal.
+Las clases se hicieron con el fin de crear vértices y las aristas de las que se componía 
+el grafo, para después ser utilizadas en el programa principal. En el programa principal 
+se creo una función para manejar excepciones, se desarrollo la lógica para recibir por 
+consola todos los datos seguidos y separados por coma y se desarrollo el grafo en el que 
+iban a ir las instancias de las clases anteriormente nombradas.
+Al finalizar el programa, este imprime en consola el dato del vértice y una flecha 
+que señala las aristas respectivas a el.
+
+2.	Entre las similitudes que encuentro al momento de trabajar con los grafos es que 
+se siguen trabajando con listas, se realizan iteraciones y se hace el uso de clases 
+para referenciar los objetos que van dentro de esta estructura.
+Entre las diferencias puedo encontrar que no se trabaja con una estructura totalmente lineal.
+
+3.	Lo mas sencillo de este trabajo fue el realizar la lógica que permitía separar los 
+datos introducidos del usuario por comas.
+Lo mas complejo y que supuso un reto fue el pensar como iba a ingresar dos valores 
+diferentes en un arreglo. Esto se solución utilizando una estructura reservada del lenguaje 
+llamada “struct”. Tuve que recurrir a la implementación de esta estructura ya que debía ingresar 
+en un mismo arreglo objetos de vértices y aristas, los cuales eran objetos de clases diferentes.
